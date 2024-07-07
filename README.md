@@ -1,3 +1,7 @@
+These are the screenshots of both the screens 
+
+![1000058735](https://github.com/preet7303/WeatherApp/assets/111607761/e75ae315-2289-40b8-910d-c0b469096fea)
+![1000058736](https://github.com/preet7303/WeatherApp/assets/111607761/d217694a-ce07-478d-8d3a-a78402c8c6f0)
 # weather_app
 
 A new Flutter project.
